@@ -48,6 +48,6 @@ Aquí iré publicando mis proyectos personales, prácticas y trabajos relacionad
 
 Si quieres conocer mis proyectos o seguir mi progreso, puedes encontrarme aquí:
 
-🐙 GitHub: @TU_USUARIO
+🐙 GitHub: @Manu17sm
 
 ⭐ Aprendiendo hoy, construyendo el futuro.
