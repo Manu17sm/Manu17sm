@@ -1,16 +1,53 @@
-## Hi there 👋
+👋 ¡Hola! Soy Manu
 
-<!--
-**Manu17sm/Manu17sm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de informática | Futuro desarrollador y profesional IT
 
-Here are some ideas to get you started:
+¡Bienvenido a mi perfil de GitHub! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tengo 16 años y actualmente estoy estudiando un Grado Medio de Sistemas Microinformáticos y Redes (SMR). Me apasiona la informática, la tecnología y todo lo relacionado con el mundo de los ordenadores.
+
+Estoy empezando mi camino en el mundo tecnológico, aprendiendo nuevas habilidades y desarrollando proyectos para mejorar cada día.
+
+🧑‍💻 Sobre mí
+
+🎓 Estudiante de Grado Medio de Informática (SMR).
+
+💻 Interesado en el hardware, el software y las redes.
+
+🌱 Siempre aprendiendo cosas nuevas.
+
+🛠️ Me gusta experimentar, resolver problemas y crear proyectos.
+
+🎯 Mi objetivo es seguir creciendo en el mundo de la tecnología.
+
+⚙️ Tecnologías y herramientas
+
+Estas son algunas de las tecnologías y herramientas con las que estoy aprendiendo y trabajando:
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,python,windows,linux,git,github,vscode" alt="Tecnologías y herramientas" />
+</p>
+
+Mi stack irá creciendo a medida que aprenda y desarrolle nuevos proyectos.
+
+📂 Mis proyectos
+
+Aquí iré publicando mis proyectos personales, prácticas y trabajos relacionados con la informática.
+
+🔨 Actualmente aprendiendo y construyendo nuevos proyectos.
+
+¡Pronto habrá novedades!
+
+📊 Mi actividad en GitHub
+
+
+
+
+
+📫 Contacto
+
+Si quieres conocer mis proyectos o seguir mi progreso, puedes encontrarme aquí:
+
+🐙 GitHub: @TU_USUARIO
+
+⭐ Aprendiendo hoy, construyendo el futuro.
